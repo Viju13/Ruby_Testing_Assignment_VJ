@@ -19,9 +19,9 @@ mytest.assert_form_mandatory_message
 end
 
 
-#Remove "#" from below to execute a test case
+#Add/Remove "#" from below to execute a test case
 
-#positive_test_submit_form
-negative_mandatory_field
+positive_test_submit_form
+#negative_mandatory_field
 
 
